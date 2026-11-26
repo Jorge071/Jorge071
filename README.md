@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**Jorge071/Jorge071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou desenvolvedor em formação 
 
-Here are some ideas to get you started:
+🎓 Estudante de Técnico em Desenvolvimento de Sistemas no Senac.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interessado em desenvolvimento de software, backend e banco de dados.
+
+🚀 Atualmente desenvolvendo projetos para aprimorar minhas habilidades e construir experiência na área de tecnologia.
+
+## 🛠️ Tecnologias e ferramentas
+
+- Python
+- C
+- MySQL
+- HTML e CSS
+- Git e GitHub
+- Programação Orientada a Objetos (POO)
+- Arquitetura MVC
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Backend
+- APIs REST
+- Banco de dados
+- Docker
+- Estrutura de projetos e boas práticas
+- Inglês
+
+## 📂 Projetos
+
+Aqui você encontra meus projetos acadêmicos e pessoais,
+desenvolvidos durante minha jornada de aprendizado.
+
+## 📫 Contato
+
+- GitHub: https://github.com/Jorge071
+- LinkedIn: www.linkedin.com/in/jorge-pereira-43366b331
