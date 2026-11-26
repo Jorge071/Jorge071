@@ -1,37 +1,54 @@
-
-# Olá! Eu sou desenvolvedor em formação 
+# Olá! Eu sou Jorge Pereira 👋
 
 🎓 Estudante de Técnico em Desenvolvimento de Sistemas no Senac.
 
-💻 Interessado em desenvolvimento de software, backend e banco de dados.
+💻 Desenvolvedor em formação, interessado em desenvolvimento de software, Backend e banco de dados.
 
-🚀 Atualmente desenvolvendo projetos para aprimorar minhas habilidades e construir experiência na área de tecnologia.
+🚀 Atualmente desenvolvendo projetos acadêmicos e pessoais para aprimorar minhas habilidades e adquirir experiência na área de tecnologia.
 
 ## 🛠️ Tecnologias e ferramentas
 
-- Python
-- C
-- MySQL
-- HTML e CSS
-- Git e GitHub
-- Programação Orientada a Objetos (POO)
-- Arquitetura MVC
+<div>
+
+🐍 **Python** | C | MySQL
+
+🌐 HTML | CSS
+
+🔧 Git | GitHub
+
+📚 Programação Orientada a Objetos (POO) | Arquitetura MVC
+
+</div>
 
 ## 📚 Atualmente estudando
 
 - Desenvolvimento Backend
 - APIs REST
+- FastAPI
 - Banco de dados
 - Docker
-- Estrutura de projetos e boas práticas
+- Estruturação de projetos e boas práticas
 - Inglês
 
-## 📂 Projetos
+## 📂 Projetos em destaque
 
-Aqui você encontra meus projetos acadêmicos e pessoais,
-desenvolvidos durante minha jornada de aprendizado.
+**🍽️ Sistema Restaurante**
 
-## 📫 Contato
+Sistema desenvolvido em Python com interface gráfica e integração com MySQL, utilizando arquitetura MVC.
 
-- GitHub: https://github.com/Jorge071
-- LinkedIn: www.linkedin.com/in/jorge-pereira-43366b331
+**🏥 ProntuarioEdu-Hospitalar**
+
+Projeto colaborativo de desenvolvimento de um sistema hospitalar, utilizando Python, FastAPI e MySQL.
+
+## 📊 GitHub
+
+- Confira meus repositórios e acompanhe minha evolução como desenvolvedor.
+
+## 📫 Entre em contato
+
+- **GitHub:** [Jorge071](https://github.com/Jorge071)
+- **LinkedIn:** [Jorge Pereira](https://www.linkedin.com/in/jorge-pereira-43366b331/)
+
+---
+
+⭐ Obrigado pela visita! Estou sempre aprendendo e buscando novos desafios.
