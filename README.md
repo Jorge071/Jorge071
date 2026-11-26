@@ -1,4 +1,4 @@
-# Olá! Eu sou Jorge Pereira 👋
+# Olá! Eu sou Jorge Pereira 
 
 🎓 Estudante de Técnico em Desenvolvimento de Sistemas no Senac.
 
